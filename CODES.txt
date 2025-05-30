@@ -1,2 +1,4 @@
 x= input("enter name:")
 print(x)
+y=int(input( "enter age:"))
+print (y)
